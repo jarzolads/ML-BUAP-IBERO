@@ -288,6 +288,7 @@ Se recomienda citar o reconocer la autoría del material cuando sea reutilizado,
 Profesor Investigador 
 Departamento de Ingeniería Química, Industrial y de Alimentos
 Universidad Iberoamericana Campus Ciudad de México
+
 **Dr. Jesús Andrés Arzola Flores**
 Profesor Investigador
 Facultad de Ingeniería Química

@@ -1,4 +1,4 @@
-# Machine Learning introductorio para estudiantes de licenciatura del área química
+# Introducción a Machine Learning para Ingenieros e Ingenieras del Área Química
 
 Repositorio del curso **Machine Learning introductorio para estudiantes de licenciatura del área química**, diseñado como una experiencia formativa basada en casos aplicados a problemas de ingeniería química, ingeniería ambiental, materiales y procesos.
 
@@ -283,8 +283,11 @@ Se recomienda citar o reconocer la autoría del material cuando sea reutilizado,
 
 ---
 
-## Autore
-
+## Autores
+**Dr. César Eduardo Martínez Mercado
+Profesor Investigador 
+Departamento de Ingeniería Química, Industrial y de Alimentos
+Universidad Iberoamericana Campus Ciudad de México
 **Dr. Jesús Andrés Arzola Flores**
 Profesor Investigador
 Facultad de Ingeniería Química

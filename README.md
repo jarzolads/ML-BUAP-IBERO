@@ -1,6 +1,6 @@
 # Introducción a Machine Learning para Ingenieros e Ingenieras del Área Química
 
-Repositorio del curso **Machine Learning introductorio para estudiantes de licenciatura del área química**, diseñado como una experiencia formativa basada en casos aplicados a problemas de ingeniería química, ingeniería ambiental, materiales y procesos.
+Repositorio del curso **Introducción a Machine Learning para Ingenieros e Ingenieras del Área Química**, diseñado como una experiencia formativa basada en casos aplicados a problemas de ingeniería química, ingeniería ambiental, materiales y procesos.
 
 El curso utiliza la metodología de **Aprendizaje Basado en Casos**, por lo que cada sesión parte de un problema contextualizado y se desarrolla mediante notebooks en **Google Colab**, integrando análisis de datos, construcción de modelos, evaluación de resultados e interpretación desde una perspectiva ingenieril.
 
